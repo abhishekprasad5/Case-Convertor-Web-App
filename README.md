@@ -20,7 +20,7 @@ The Case Convertor Project is a lightweight web application that allows users to
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/case-convertor.git
+    git clone https://github.com/abhishekprasad5/case-convertor.git
     ```
 
 2. Open the `index.html` file in your web browser.
